@@ -4,7 +4,7 @@
     $DB_DSN = "mysql:host=localhost";
     $DB_NAME = "Camagru";
     $DB_USER = "root";
-    $DB_PASSWORD = "SamsungS7";
+    $DB_PASSWORD = "";
     
     function init_database($server, $user, $password, $dbname)
     {
