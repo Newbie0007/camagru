@@ -4,7 +4,7 @@ class Database
     private $DB_DSN = "mysql:host=localhost";
     private $DB_NAME = "Camagru";
     private $DB_USER = "root";
-    private $DB_PASSWORD = "SamsungS7";
+    private $DB_PASSWORD = "";
     public $conn;
 
     public function dbConnection()
